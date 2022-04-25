@@ -1,18 +1,17 @@
-/*.container-fluid{*/
-/*    background-color:#ffe0cf;*/
-/*}*/
+.container-fluid{
+    background-color:#f7d1cd;
+}
 
-.row{
-    background-color:#ffe0cf;
+.future{
+    background-color:#dbb1ad;
 }
 
 .carousel{
-    background-color:#ffe0cf;
+    background-color:#f7d1cd;
 }
 
 
 /*image under navbar*/
-
 
 
 
