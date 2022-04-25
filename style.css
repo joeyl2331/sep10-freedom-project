@@ -1,10 +1,11 @@
-.body{
+/*.container{*/
+/*    background-color:#ffe0cf;*/
+/*}*/
+
+.row{
     background-color:#ffe0cf;
 }
 
-.list{
-    position:center;
-}
 
 /*make the images of the carousel to the center*/
  .d-block{
