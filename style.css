@@ -1,10 +1,19 @@
-/*.container{*/
+/*.container-fluid{*/
 /*    background-color:#ffe0cf;*/
 /*}*/
 
 .row{
     background-color:#ffe0cf;
 }
+
+.carousel{
+    background-color:#ffe0cf;
+}
+
+
+/*image under navbar*/
+
+
 
 
 /*make the images of the carousel to the center*/
