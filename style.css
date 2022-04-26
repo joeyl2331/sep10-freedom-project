@@ -6,12 +6,27 @@
     background-color:#dbb1ad;
 }
 
+.hardwared{
+    background-color:#f7d1cd;
+}
+
 .carousel{
     background-color:#f7d1cd;
 }
 
 
-/*image under navbar*/
+/*image (text) under navbar*/
+.centered{
+    position:absolute;
+    font-size:80px;
+     top: 30%;
+     left: 45%;
+     transform: translate(-50%, -50%);
+     text-align:center;
+    color:#78100c;
+    font-family: 'Bungee', cursive;
+
+}
 
 
 
