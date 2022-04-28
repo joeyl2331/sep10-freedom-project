@@ -46,6 +46,17 @@
             background-color:#e69e97;
         }
         
+        
+/*image and text: hardware tools  */
 .size{
-    font-size:20px;
+    margin:20px;
+    padding:10px;
+}
+
+.adjust{
+    padding:20px;
+}
+
+.container-fluid{
+    border-style: dashed;
 }
