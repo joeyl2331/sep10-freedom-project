@@ -1,5 +1,6 @@
 .container-fluid{
-    background-color:#f7d1cd;
+    background-color:#dbb1ad;
+    border-style: dashed;
 }
 
 .future{
@@ -7,11 +8,11 @@
 }
 
 .hardwared{
-    background-color:#f7d1cd;
+    background-color:#dbb1ad;
 }
 
 .carousel{
-    background-color:#f7d1cd;
+    background-color:#dbb1ad;
 }
 
 
@@ -24,7 +25,6 @@
      transform: translate(-50%, -50%);
      text-align:center;
     color:#78100c;
-    font-family: 'Bungee', cursive;
 
 }
 
@@ -57,6 +57,13 @@
     padding:20px;
 }
 
-.container-fluid{
-    border-style: dashed;
+
+
+body{
+    background-color:#f7d1cd;
+}
+
+img-fluid{
+    height: 50%;
+  background-position: center;
 }
