@@ -3,14 +3,6 @@
     border-style: dashed;
 }
 
-.future{
-    background-color:#dbb1ad;
-}
-
-.hardwared{
-    background-color:#dbb1ad;
-}
-
 .carousel{
     background-color:#dbb1ad;
 }
@@ -34,6 +26,7 @@ img-fluid{
     width:100%;
     height:500px;
     position: relative;
+    background: linear-gradient;
 }
 
 
