@@ -1,3 +1,7 @@
+.navbar{
+    background-color:#f7d1cd;
+}
+
 .container-fluid{
     background-color:#dbb1ad;
     border-style: dashed;
@@ -11,12 +15,13 @@
 /*image (text) under navbar*/
 .centered{
     position:absolute;
-    font-size:80px;
+    font-size:90px;
      top: 30%;
      left: 45%;
      transform: translate(-50%, -50%);
      text-align:center;
     color:#78100c;
+    font-family: 'Lobster', cursive;
 
 }
 
@@ -82,3 +87,12 @@ a{
     color:black;
 }
 
+h1{
+    font-family: 'Goldman', cursive;
+}
+
+
+
+li{
+    font-family: 'Goldman', cursive;
+}
