@@ -117,4 +117,12 @@ h3{
     font-family: 'Oleo Script Swash Caps', cursive;
 }
 
-.
+.hero{
+    background-size:cover;
+    background:url(img/img1.jpg);
+    height:70%;
+}
+
+html,body{
+    height:100%;
+}
