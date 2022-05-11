@@ -13,6 +13,9 @@
 
 
 /*image (text) under navbar*/
+.top{
+    font-size:90px;
+}
 .centered{
     position:absolute;
     font-size:90px;
